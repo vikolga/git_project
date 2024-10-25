@@ -1,5 +1,4 @@
-# Формирование навыков работы с GitHub и Git
-Перечень команд и методов базовой работы с Git и GitHub
+# Перечень команд и методов базовой работы с Git и GitHub
 
 [Как создать SSH-ключ](https://github.com/vikolga/git_project/blob/main/generation_ssh.md)
 
