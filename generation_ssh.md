@@ -34,7 +34,7 @@ cat ~/.ssh/id_rsa.pub
 
 ```mermaid
 graph LR;
-Settings --> SSH and GPG keys --> New SSH key;
+Settings -- --> SSH and GPG keys -- --> New SSH key;
 ```
 
 Придумываем имя ключа и вставляем в поле скопированный открытый ключ.
