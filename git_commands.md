@@ -1,3 +1,5 @@
+# Локальная работа с git
+
 - Инициализация репозитория
 ```bash
 git init
@@ -44,8 +46,3 @@ git log
 ```bash
 git log --oneline
 ```
-
-```mermaid
-graph LR;
-  tracked/comitted -- "git push" --> tracked;
-``` 
