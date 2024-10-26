@@ -109,3 +109,20 @@ __полужирный__
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)
 ```
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)
+
+Вставка кусков кода
+---
+Для оформления кода, его окружают ``` с обеих сторон и указывают в первой строке азык кода. например
+```bash
+```bash
+ls -la```
+```html
+<h1> А я простой текст</h1>```
+```
+Результатом выполнения будет
+```bash
+ls -la
+```
+```html
+<h1> А я простой текст</h1>
+```
