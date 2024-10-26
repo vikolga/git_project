@@ -8,3 +8,5 @@
 [Работа с локальным репозиторием](https://github.com/vikolga/git_project/blob/main/git_commands.md)
 
 [Инициализация и создание связи между локальным и удаленым репозиторием](https://github.com/vikolga/git_project/blob/main/github_commands.md)
+
+[Правила работы с коммитами](https://github.com/vikolga/git_project/blob/main/navigating_through_commits.md)
