@@ -10,3 +10,5 @@
 [Инициализация и создание связи между локальным и удаленым репозиторием](https://github.com/vikolga/git_project/blob/main/github_commands.md)
 
 [Правила работы с коммитами](https://github.com/vikolga/git_project/blob/main/navigating_through_commits.md)
+
+[Команды для командной работы с удаленным репозиторием](https://github.com/vikolga/git_project/blob/main/group_work_repository.md)
